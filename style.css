@@ -16,6 +16,13 @@ body{
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'ISOCPEUR';
+    src: url('./Font/ISOCPEUR.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
 .MainImg {
     margin-top: 25px;
     height: 430px;
@@ -75,4 +82,17 @@ body{
     width: 55px;
     height: 55px;
     border-radius: 20%;
+}
+
+.list1 {
+    width: 350px;
+    background-color: rgb(39, 39, 39);
+    color: aliceblue;
+    border-radius: 15px;
+    padding: 10px 20px;
+}
+
+.description {
+    font-family: 'ISOCPEUR';
+    font-size: 20px;
 }
