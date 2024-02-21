@@ -51,14 +51,14 @@ body{
 }
 
 .friendsText {
-    margin-top: -3px;
+    margin-top: 5px;
     margin-left: 20px;
     font-family: 'BalooBhaijaan2SemiBol';
     font-size: 30px;
 }
 
 .ImgYuzakiIdatori {
-    margin-left: 100px;
+    margin-left: 70px;
     width: 60px;
     height: 60px;
     border-radius: 20%;
