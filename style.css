@@ -18,6 +18,7 @@ body{
 
 .MainImg {
     height: 500px;
+    user-select: none;
 }
 
 .ImgSatoruGojo {
@@ -40,4 +41,5 @@ body{
 .Name {
     font-family: 'BalooBhaijaan2SemiBol';
     font-size: 50px;
+    width-bolt: ;
 }
