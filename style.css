@@ -47,6 +47,7 @@ body{
 
 .friends {
     display: flex;
+    user-select: none;
 }
 
 .friendsText {
