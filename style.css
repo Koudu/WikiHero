@@ -18,22 +18,22 @@ body{
 
 .MainImg {
     margin-top: 25px;
-    height: 400px;
+    height: 430px;
     user-select: none;
 }
 
 .ImgSatoruGojo {
-    margin-left: 50px;
-    width: 270px;
-    height: 400px;
+    margin-left: 35px;
+    width: 300px;
+    height: 430px;
     z-index: 1;
     position: relative;
 }
 
 .ImgCircle {
-    margin: -365px 0px 0px 20px;
-    width: 320px;
-    height: 320px;
+    margin: -395px 0px 0px 20px;
+    width: 335px;
+    height: 335px;
     background-color: rgb(245, 245, 245);
     border-radius: 100%;
     position: relative;
