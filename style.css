@@ -85,7 +85,8 @@ body{
 }
 
 .list1 {
-    width: 310px;
+    margin-left: 20px;
+    width: 300px;
     background-color: rgb(39, 39, 39);
     color: aliceblue;
     border-radius: 15px;
