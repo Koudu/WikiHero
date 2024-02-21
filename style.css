@@ -23,16 +23,16 @@ body{
 
 .ImgSatoruGojo {
     margin-left: 100px;
-    width: 200px;
-    height: 500px;
+    width: 180px;
+    height: 470px;
     z-index: 1;
     position: relative;
 }
 
 .ImgCircle {
-    margin: -460px 0px 0px 7px;
-    width: 400px;
-    height: 400px;
+    margin: -430px 0px 0px 7px;
+    width: 380px;
+    height: 380px;
     background-color: rgb(245, 245, 245);
     border-radius: 100%;
     position: relative;
