@@ -45,9 +45,28 @@ body{
     font-size: 50px;
 }
 
+.friends {
+    display: flex;
+}
+
 .friendsText {
-    margin-top: -10px;
+    margin-top: px;
     margin-left: 20px;
     font-family: 'BalooBhaijaan2SemiBol';
     font-size: 30px;
+}
+
+.ImgYuzakiIdatori {
+    width: 40px;
+    border-radius: 20%;
+}
+
+.ImgNobaraKugisaki {
+    width: 40px;
+    border-radius: 20%;
+}
+
+.ImgMegumiFushiguro {
+    width: 40px;
+    border-radius: 20%;
 }
