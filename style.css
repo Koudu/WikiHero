@@ -51,29 +51,28 @@ body{
 }
 
 .friendsText {
-    margin-top: 5px;
     margin-left: 20px;
     font-family: 'BalooBhaijaan2SemiBol';
-    font-size: 30px;
+    font-size: 35px;
 }
 
 .ImgYuzakiIdatori {
-    margin-left: 70px;
-    width: 60px;
-    height: 60px;
+    margin-left: 30px;
+    width: 55px;
+    height: 55px;
     border-radius: 20%;
 }
 
 .ImgNobaraKugisaki {
     margin-left: 15px;
-    width: 60px;
-    height: 60px;
+    width: 55px;
+    height: 55px;
     border-radius: 20%;
 }
 
 .ImgMegumiFushiguro {
     margin-left: 15px;
-    width: 60px;
-    height: 60px;
+    width: 55px;
+    height: 55px;
     border-radius: 20%;
 }
