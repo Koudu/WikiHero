@@ -17,6 +17,7 @@ body{
 }
 
 .MainImg {
+    margin-top: 25px;
     height: 400px;
     user-select: none;
 }
@@ -30,7 +31,7 @@ body{
 }
 
 .ImgCircle {
-    margin: -365px 0px 0px 9px;
+    margin: -365px 0px 0px 20px;
     width: 320px;
     height: 320px;
     background-color: rgb(245, 245, 245);
