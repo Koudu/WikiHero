@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'MontserratAlternates';
+    src: url('../src/Assets/img/font/MontserratAlternates.ttf');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  * {
+    user-select: none;
+  }
+  
+  .main-info {
+    display: absolute;
+  }
+  
+  .main-dc-text {
+    display: grid;
+    margin-top: 150px;
+    margin-left: 200px;
+  }
+  
+  .main-dc-text-1 {
+    width: 700px;
+    height: 280px;
+    font-size: 60px;
+    font-family: MontserratAlternates;
+  }
+  
+  .main-dc-text-2 {
+    width: 600px;
+    font-size: 40px;
+  }
+  
+  .GreenArrow-picture {
+    margin-left: 900px;
+    margin-top: 50px;
+    height:754px;
+    width: 480px;
+    background-position: center;
+    background-size: 100%;
+    position:absolute;
+  }
+  
+  .tile-with-information {
+    margin-left: 250px;
+    margin-top: 50px;
+    display: flex;
+  }
+  
+  .tile-with-information-1 {
+    height: 200px;
+    width: 400px;
+    background-color: #464646;
+    border-radius: 30px;
+  }
+  
+  .tile-with-information-2 {
+    margin-left: 50px;
+    height: 200px;
+    width: 400px;
+    background-color: #464646;
+    border-radius: 30px;
+  }
+  
+  .tile-with-information-3 {
+    margin-left: 50px;
+    height: 200px;
+    width: 400px;
+    background-color: #464646;
+    border-radius: 30px;
+  }
+  

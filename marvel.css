@@ -1,0 +1,163 @@
+@font-face {
+  font-family: 'MontserratAlternates';
+  src: url('../src/Assets/img/font/MontserratAlternates.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  user-select: none;
+}
+
+.main-info {
+  display: flex;
+}
+
+.main-marvel-text {
+  display: grid;
+  margin-top: 150px;
+  margin-left: 200px;
+}
+
+.main-marvel-text-1 {
+  width: 700px;
+  height: 180px;
+  font-size: 60px;
+  font-family: MontserratAlternates;
+}
+
+.main-marvel-text-2 {
+  width: 600px;
+  font-size: 40px;
+}
+
+.MsMinutca-picture {
+  margin-left: 95px;
+  margin-top: 50px;
+  height: 550px;
+  width: 550px;
+  background-position: center;
+  background-size: 100%;
+}
+
+.tile-with-information {
+  margin-left: 250px;
+  margin-top: 50px;
+  display: flex;
+}
+
+.tile-with-information-1 {
+  height: 200px;
+  width: 400px;
+  background-color: #464646;
+  border-radius: 30px;
+  display: flex;
+}
+
+.SpiderManMenuClass {
+  margin-left: 30px;
+  display: grid;
+  background-color: #464646;
+  border-radius: 30px;
+}
+
+.SpiderManMenu1 {
+  margin-top: 50px;
+  font-size: 40px;
+  width: 100px;
+  height: 33px;
+  font-family: MontserratAlternates;
+  background-color: #464646;
+  border-radius: 30px;
+  position: relative;
+}
+
+.SpiderManMenu2 {
+  margin-bottom: 50px;
+  font-size: 40px;
+  width: 190px;
+  height: 33px;
+  font-family: MontserratAlternates;
+  background-color: #464646;
+  border-radius: 30px;
+  position: relative;
+}
+
+.SpiderManMenu {
+  margin-left: 0px;
+  height: 190px;
+  width: 180px;
+  background-color: #464646;
+  border-radius: 0px 30px 30px 0px;
+}
+
+
+.tile-with-information-2 {
+  margin-left: 50px;
+  height: 200px;
+  width: 400px;
+  background-color: #464646;
+  border-radius: 30px;
+  display: flex;
+}
+
+.TorMenuClass {
+  margin-left: 30px;
+  display: grid;
+  background-color: #464646;
+  border-radius: 30px;
+}
+
+.TorMenu1 {
+  margin-top: 65px;
+  font-size: 50px;
+  width: 100px;
+  font-family: MontserratAlternates;
+  background-color: #464646;
+  border-radius: 30px;
+  position: relative;
+}
+
+.TorMenu {
+  margin-top: 10px;
+  margin-left: 125px;
+  height: 190px;
+  width: 145px;
+  background-color: #464646;
+  border-radius: 0px 30px 30px 0px;
+}
+
+.tile-with-information-3 {
+  margin-left: 50px;
+  height: 200px;
+  width: 400px;
+  background-color: #464646;
+  border-radius: 30px;
+  display: flex;
+}
+
+.HalkMenuClass {
+  margin-left: 30px;
+  display: grid;
+  background-color: #464646;
+  border-radius: 30px;
+}
+
+.HalkMenu1 {
+  margin-top: 65px;
+  font-size: 50px;
+  width: 100px;
+  font-family: MontserratAlternates;
+  background-color: #464646;
+  border-radius: 30px;
+  position: relative;
+}
+
+.HalkMenu {
+  margin-top: 10px;
+  margin-left: 80px;
+  height: 190px;
+  width: 190px;
+  background-color: #464646;
+  border-radius: 0px 30px 30px 0px;
+}

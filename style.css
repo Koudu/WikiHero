@@ -1,99 +1,65 @@
-body{
-    background-color: rgb(0, 241, 221);
+@font-face {
+  font-family: 'LIQUIDNIGHTRegular';
+  src: url('../src/Assets/img/font/LIQUIDNIGHTRegular.woff2');
+  font-weight: normal;
+  font-style: normal;
 }
 
 @font-face {
-    font-family: 'League';
-    src: url('./Font/League.otf');
-    font-weight: normal;
-    font-style: normal;
+  font-family: 'GotOfWarText';
+  src: url('../src/Assets/img/font/GodOfWar/GODOFWAR.TTF');
+  font-weight: normal;
+  font-style: normal;
 }
 
 @font-face {
-    font-family: 'BalooBhaijaan2SemiBol';
-    src: url('./Font/BalooBhaijaan2-SemiBold.ttf');
-    font-weight: normal;
-    font-style: normal;
+  font-family: 'HarryPotterFont';
+  src: url('../src/Assets/img/font/HarryPotter.ttf');
+  font-weight: normal;
+  font-style: normal;
 }
 
-@font-face {
-    font-family: 'ISOCPEUR';
-    src: url('./Font/ISOCPEUR.ttf');
-    font-weight: normal;
-    font-style: normal;
+
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  box-sizing: border-box;
+  font-family: Arial;
+  background-color: #5f5f5f;
+  color: #fff;
 }
 
-.MainImg {
-    margin-top: 25px;
-    height: 430px;
-    user-select: none;
+.up-panel {
+  width: 100% ;
+  height: 60px;
+  display: flex;
+  user-select: none;
 }
 
-.ImgSatoruGojo {
-    margin-left: 35px;
-    width: 300px;
-    height: 430px;
-    z-index: 1;
-    position: relative;
+.nameWebsite {
+  margin: 5px 0px 0px 10px;
+  font-size: 40px;
+  font-family: LIQUIDNIGHTRegular;
 }
 
-.ImgCircle {
-    margin: -395px 0px 0px 20px;
-    width: 335px;
-    height: 335px;
-    background-color: rgb(245, 245, 245);
-    border-radius: 100%;
-    position: relative;
+.menu {
+  margin-top: 17px;
+  margin-left: 500px;
+  font-size: 20px;
+  display: flex;
 }
 
-.Name {
-    margin-left: 20px;
-    font-family: 'BalooBhaijaan2SemiBol';
-    font-size: 50px;
+.marvelPanel {
+  cursor: pointer;
 }
 
-.friends {
-    display: flex;
-    user-select: none;
+.DCPanel {
+  margin-left: 50px;
+  cursor: pointer;
 }
 
-.friendsText {
-    margin-left: 20px;
-    font-family: 'BalooBhaijaan2SemiBol';
-    font-size: 35px;
-}
-
-.ImgYuzakiIdatori {
-    margin-left: 30px;
-    width: 55px;
-    height: 55px;
-    border-radius: 20%;
-}
-
-.ImgNobaraKugisaki {
-    margin-left: 15px;
-    width: 55px;
-    height: 55px;
-    border-radius: 20%;
-}
-
-.ImgMegumiFushiguro {
-    margin-left: 15px;
-    width: 55px;
-    height: 55px;
-    border-radius: 20%;
-}
-
-.list1 {
-    margin-left: 20px;
-    width: 300px;
-    background-color: rgb(39, 39, 39);
-    color: aliceblue;
-    border-radius: 15px;
-    padding: 10px 20px;
-}
-
-.description {
-    font-family: 'ISOCPEUR';
-    font-size: 20px;
+.HPPanel {
+  margin-left: 50px;
+  cursor: pointer;
 }
