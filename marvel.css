@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'MontserratAlternates';
-  src: url('../src/Assets/img/font/MontserratAlternates.ttf');
+  src: url('./img/font/MontserratAlternates.ttf');
   font-weight: normal;
   font-style: normal;
 }

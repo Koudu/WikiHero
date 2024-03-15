@@ -5,21 +5,6 @@
   font-style: normal;
 }
 
-@font-face {
-  font-family: 'GotOfWarText';
-  src: url('../src/Assets/img/font/GodOfWar/GODOFWAR.TTF');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'HarryPotterFont';
-  src: url('../src/Assets/img/font/HarryPotter.ttf');
-  font-weight: normal;
-  font-style: normal;
-}
-
-
 * {
   margin: 0;
   padding: 0;
@@ -55,11 +40,6 @@
 }
 
 .DCPanel {
-  margin-left: 50px;
-  cursor: pointer;
-}
-
-.HPPanel {
   margin-left: 50px;
   cursor: pointer;
 }
